@@ -23,7 +23,5 @@ Consequently, we initiated an experiment to assess the performance of LLMs(ChatG
 | --------- | ----------------- | ---------------------- | --------------- |
 | Score(HF) | 39.3              | 53.1                   | 51              |
 
-## ChatDAI
-
 
 
